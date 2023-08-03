@@ -1,3 +1,1 @@
-The current project is about making a website of cooking recipes.I think i will
-most likely use the <p> and <strong command>.I will try to use all the commands
-I have learned in the previous lessons so i can get better with them.
+This is my first ever project.I am quite excited to complete it.I will also try my best to use all the knowledge i have gained so far from the odin project to maki this project as better as i can.
